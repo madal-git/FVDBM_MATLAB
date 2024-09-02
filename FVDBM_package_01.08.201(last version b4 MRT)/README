@@ -1,0 +1,7 @@
+# This is my README
+
+# This is LBM solver based on cell-centered Finite Volume method, which directly solves the discrete Boltzmann equation.
+
+# This model can handle any 2D rectangular domain decomposed with any type of unstructured triangle mesh. 
+# The rectangular domain can be purely occupied by fluid or solid surrounded by fluid. 
+# The model can simulate isothermal flows or passive-scalar thermal flow or even thermally-coupled fluid-solid problem.
